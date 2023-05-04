@@ -4,8 +4,9 @@ Aspiring Coder and Developer
 ----------------------------
 I'm just a small town girl, living in a coding world.
 
-- :brain: I'm currently learning: HTML, CSS, and Javascript. 
-- ⭐ I am certified in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
+- :brain: I'm currently learning: HTML, CSS, and JavaScript. 
+- :star: I'm certified in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
+- :handshake: I'm open to collabarating on new and exciting projects based in HTML, CSS, and JavaScript.
 
 ### Skills
 
