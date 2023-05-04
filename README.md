@@ -4,9 +4,12 @@ Aspiring Coder and Developer
 ----------------------------
 I'm just a small town girl, living in a coding world.
 
-- :brain: I'm currently learning: HTML, CSS, and JavaScript. 
+- 🌎 I'm based in: Destrehan, Louisiana.
+- :brain: I'm currently learning: HTML, CSS, and JavaScript.
+- :writing_hand: I'm currently studying to get: a CTS in Web Design and a CTC in Web Programming at Delgado Community College.
 - :star: I'm certified in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
-- :handshake: I'm open to collabarating on new and exciting projects based in HTML, CSS, and JavaScript.
+- :handshake: I'm open to collabarating on: new and exciting projects based in HTML, CSS, and JavaScript.
+- ✉️ Want to contact me? You can email me at mailto:juliaecaro@gmail.com.
 
 ### Skills
 
