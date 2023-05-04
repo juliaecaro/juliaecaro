@@ -6,6 +6,7 @@ I'm just a small town girl, living in a coding world. I started out by teaching 
 - :brain: I'm currently learning: HTML, CSS, and JavaScript.
 - :writing_hand: I'm currently studying to get: a CTS in Web Design and a CTC in Web Programming at Delgado Community College.
 - :star: I'm certified in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
+- 📜 I have a degree in: English, from the University of Louisiana at Lafayette.
 - :handshake: I'm open to collaborating on: new and exciting projects based in HTML, CSS, and JavaScript.
 - ✉️ Want to contact me? You can email me at [juliaecaro@gmail.com](mailto:juliaecaro@gmail.com).
 
