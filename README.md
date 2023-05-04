@@ -1,7 +1,5 @@
 Hi :wave: I'm Julia Caro
 ----------------------------
-Aspiring Coder and Developer
-----------------------------
 I'm just a small town girl, living in a coding world.
 
 - 🌎 I'm based in: Destrehan, Louisiana.
