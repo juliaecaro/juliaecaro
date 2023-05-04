@@ -1,6 +1,11 @@
-About Julia Caro: Aspiring Coder and Developer
+Hi :wave: I'm Julia Caro
 ----------------------------
-I'm just a small town girl, living in a coding world. Currently learning: HTML, CSS, and Javascript. I am certified in Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
+Aspiring Coder and Developer
+----------------------------
+I'm just a small town girl, living in a coding world.
+
+- :brain: I'm currently learning: HTML, CSS, and Javascript. 
+- ⭐ I am certified in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
 
 ### Skills
 
@@ -12,7 +17,7 @@ I'm just a small town girl, living in a coding world. Currently learning: HTML, 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-### Known Languages
+### Languages Statistics
 
 <a href="https://github.com/juliaecaro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaecaro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20Used%20%Languages" alt="Most Used Languages" /></a>
 
