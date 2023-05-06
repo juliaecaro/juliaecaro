@@ -10,7 +10,7 @@ I'm just a small town girl, living in a coding world. I started out by teaching 
 - :handshake: I'm open to collaborating on: new and exciting projects based in HTML, CSS, and JavaScript.
 - ✉️ Want to contact me? You can email me at [juliaecaro@gmail.com](mailto:juliaecaro@gmail.com).
 
-### My Links
+### My Stuff
 
 <b>Socials</b>
 
