@@ -38,7 +38,7 @@ I'm just a small town girl, living in a coding world. I started out by teaching 
 
 <b>Overall Github Statistics</b>
 
-<a href="http://www.github.com/juliaecaro"><img src="https://github-readme-stats.vercel.app/api?username=juliaecaro&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="juliaecaro's GitHub stats" /></a>
+<a href="http://www.github.com/juliaecaro"><img src="https://github-readme-stats.vercel.app/api?username=juliaecaro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="juliaecaro's GitHub stats" /></a>
 
 <!--
 **juliaecaro/juliaecaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
