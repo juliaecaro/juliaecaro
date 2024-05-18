@@ -1,6 +1,6 @@
 Hi :wave: I'm Julia Caro
 ----------------------------
-I'm just a small town girl, living in a coding world. I started out by teaching myself about HTML and CSS, and have now finished my studies to get certificates in Web Design and Web Programming.
+I started out by teaching myself about HTML and CSS, and I've finished my studies to get certificates in Web Design and Web Programming.
 
 - 🌎 I'm based in: Destrehan, Louisiana.
 - :brain: The most recent skills I learned were: Python, TypeScript, and Svelte.
