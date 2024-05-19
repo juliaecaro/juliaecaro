@@ -3,8 +3,8 @@ Hi :wave: I'm Julia Caro
 I started out by teaching myself about HTML and CSS, and I've finished my studies to get certificates in Web Design and Web Programming.
 
 - 🌎 I'm based in: Destrehan, Louisiana.
-- :brain: The most recent skills I learned were: Python, TypeScript, and Svelte.
-- :writing_hand: I've finished my studies to get: a CTS in Web Design and a CTC in Web Programming at Delgado Community College.
+- :brain: The most recent skills I learned are: Python, TypeScript, and Svelte.
+- :writing_hand: I have certificates in: a CTS in Web Design and a CTC in Web Programming at Delgado Community College.
 - 📜 I have a bachelor's degree in: English, from the University of Louisiana at Lafayette.
 - :star: I'm certified in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
 - :handshake: I'm open to collaborating on: new and exciting projects based in any of my skills.
