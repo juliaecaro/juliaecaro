@@ -6,7 +6,7 @@ I started out by teaching myself about HTML and CSS, and I've now finished my st
 - :brain: The most recent skills I learned are: Python, TypeScript, and Svelte.
 - :writing_hand: The certificates I have are: a CTS in Web Design and a CTC in Web Programming, both from Delgado Community College.
 - 📜 I have a bachelor's degree in: English, from the University of Louisiana at Lafayette.
-- :star: I'm certified in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
+- :star: The Adobe certifications I have are in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
 - :handshake: I'm open to collaborating on: new and exciting projects based in any of my skills.
 - ✉️ Want to contact me? You can email me at [juliaecaro@gmail.com](mailto:juliaecaro@gmail.com).
 
