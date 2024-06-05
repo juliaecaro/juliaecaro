@@ -2,7 +2,7 @@ Hi :wave: I'm Julia Caro
 ----------------------------
 I'm a web developer and a web designer. I started out by teaching myself about HTML and CSS, and now I've finished my studies to get certificates in both Web Design and Web Programming.
 
-- 🌎 **I'm based in:** Destrehan, Louisiana.
+- 🌎 **I'm based in:** America.
 - :brain: **The most recent skills I learned are:** Python, TypeScript, and Svelte.
 - :writing_hand: **The certificates I have are:** a CTS in Web Design and a CTC in Web Programming, both from Delgado Community College.
 - 📜 **I have a bachelor's degree in:** English, from the University of Louisiana at Lafayette.
