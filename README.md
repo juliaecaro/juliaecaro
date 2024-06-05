@@ -1,6 +1,6 @@
 Hi :wave: I'm Julia Caro
 ----------------------------
-I started out by teaching myself about HTML and CSS, and now I've finished my studies to get certificates in both Web Design and Web Programming.
+I'm a web developer and a web designer. I started out by teaching myself about HTML and CSS, and now I've finished my studies to get certificates in both Web Design and Web Programming.
 
 - 🌎 **I'm based in:** Destrehan, Louisiana.
 - :brain: **The most recent skills I learned are:** Python, TypeScript, and Svelte.
