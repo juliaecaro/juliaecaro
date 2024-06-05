@@ -2,13 +2,13 @@ Hi :wave: I'm Julia Caro
 ----------------------------
 I started out by teaching myself about HTML and CSS, and now I've finished my studies to get certificates in both Web Design and Web Programming.
 
-- 🌎 I'm based in: Destrehan, Louisiana.
-- :brain: The most recent skills I learned are: Python, TypeScript, and Svelte.
-- :writing_hand: The certificates I have are: a CTS in Web Design and a CTC in Web Programming, both from Delgado Community College.
-- 📜 I have a bachelor's degree in: English, from the University of Louisiana at Lafayette.
-- :star: I have Adobe certifications in: Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
-- :handshake: I'm open to collaborating on: new and exciting projects based in any of my skills.
-- ✉️ Want to contact me? You can email me at [juliaecaro@gmail.com](mailto:juliaecaro@gmail.com).
+- 🌎 **I'm based in:** Destrehan, Louisiana.
+- :brain: **The most recent skills I learned are:** Python, TypeScript, and Svelte.
+- :writing_hand: **The certificates I have are:** a CTS in Web Design and a CTC in Web Programming, both from Delgado Community College.
+- 📜 **I have a bachelor's degree in:** English, from the University of Louisiana at Lafayette.
+- :star: **I have Adobe certifications in:** Adobe Photoshop, Adobe Illustrator, and Adobe Dreamweaver.
+- :handshake: **I'm open to collaborating on:** new and exciting projects based in any of my skills.
+- ✉️ **Want to contact me?** You can email me at [juliaecaro@gmail.com](mailto:juliaecaro@gmail.com).
 
 ### My Stuff
 
@@ -36,7 +36,3 @@ I started out by teaching myself about HTML and CSS, and now I've finished my st
 <b>Language Statistics</b>
 
 <a href="https://github.com/juliaecaro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaecaro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Github Statistics</b>
-
-<a href="http://www.github.com/juliaecaro"><img src="https://github-readme-stats.vercel.app/api?username=juliaecaro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="juliaecaro's GitHub stats" /></a>
